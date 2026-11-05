@@ -4,11 +4,19 @@ const internationalPublications = [
    2026
 ========================================================= */
 
+{
+    year: 2026,
+    title: "Additive Manufacturing and Material Engineering for Advanced Functionality in mm-Wave and Sub-THz Antenna Modules and Components",
+    authors: "D. G. Dimitrova, G. Soto-Valle, H. A. Jamal, Junsoo Kim, N. Ha, S. Kim, and M. M. Tentzeris",
+    journal: "",
+    underReview: true
+},
+   
 /* 1 */
 {
     year: 2026,
     title: "Thermal-Via-Enhanced FC-BGA Antenna-in-Package (AiP) on LTCC for an Upper-Mid-Band Beam-Steering 2×2 Array in 6G Mobile Devices",
-    authors: "E. Park, H. Kim, Y. Jeong, S. Kim, and S. Kim",
+    authors: "E. Park, H. Kim, S. Kim, Y. Jeong, M. H. Kang, J. B. Park, Y.-H. Lee, M.-C. Paek, H.-W. Ryu, H. Hwangbo, and S. Kim",
     journal: "",
     underReview: true
 },
