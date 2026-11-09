@@ -7,7 +7,7 @@ const internationalPublications = [
 {
     year: 2026,
     title: "Additive Manufacturing and Material Engineering for Advanced Functionality in mm-Wave and Sub-THz Antenna Modules and Components",
-    authors: "D. G. Dimitrova, G. Soto-Valle, H. A. Jamal, Junsoo Kim, N. Ha, S. Kim, and M. M. Tentzeris",
+    authors: "D. G. Dimitrova, G. Soto-Valle, H. A. Jamal, J. Kim, N. Ha, S. Kim, and M. M. Tentzeris",
     journal: "",
     underReview: true
 },
