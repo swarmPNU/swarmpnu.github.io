@@ -12,7 +12,6 @@ const internationalPublications = [
     underReview: true
 },
    
-/* 1 */
 {
     year: 2026,
     title: "Thermal-Via-Enhanced FC-BGA Antenna-in-Package (AiP) on LTCC for an Upper-Mid-Band Beam-Steering 2×2 Array in 6G Mobile Devices",
@@ -21,7 +20,6 @@ const internationalPublications = [
     underReview: true
 },
 
-/* 2 */
 {
     year: 2026,
     title: "From Additive Manufacturing to 4D-Printed RF Systems: Origami- and Kirigami-Inspired Mechanically Reconfigurable RF Front Ends",
@@ -30,7 +28,6 @@ const internationalPublications = [
     underReview: true
 },
 
-/* 3 */
 {
     year: 2026,
     title: "A Lightweight, Broadband, Additively Manufactured Dual-CP Waveguide Active Phased Array for Ku-Band SATCOM",
@@ -39,7 +36,6 @@ const internationalPublications = [
     underReview: true
 },
 
-/* 4 */
 {
     year: 2026,
     title: "A Low-Profile Dual-Polarized Wide-Beamwidth Crossed-Dipole Antenna on LTCC with High Isolation for 6G FR3 User Equipment",
@@ -48,7 +44,6 @@ const internationalPublications = [
     underReview: true
 },
 
-/* 5 - arXiv */
 {
     year: 2026,
     title: "Transformer-Hypernetwork-Controlled Deep-Unfolded Phase-Aware Channel Estimation Refinement for Phase-Drift-Robust Backscatter Links",
@@ -57,7 +52,6 @@ const internationalPublications = [
     doi: "10.48550/arXiv.2606.31400"
 },
 
-/* 6 */
 {
     year: 2026,
     title: "A Design of Compact Monostatic In-Band Full-Duplex System for IoT Applications Using Isolation Analysis Method",
@@ -66,7 +60,6 @@ const internationalPublications = [
     underReview: true
 },
 
-/* 7 */
 {
     year: 2026,
     title: "Low-Profile Shared-Aperture Transmitarray Design for Wide-Angle 2D Switched-Beam Steering",
@@ -75,7 +68,6 @@ const internationalPublications = [
     underReview: true
 },
 
-/* 8 */
 {
     year: 2026,
     title: "DDPG-Based Topology-Aware Beamforming in Origami-Inspired 4D Phased Arrays for 5G+ Applications",
@@ -84,7 +76,6 @@ const internationalPublications = [
     underReview: true
 },
 
-/* 9 */
 {
     year: 2026,
     title: "Design of a Compact Lumped-Element BPF on LTCC for 6G Upper Mid-Band Systems",
@@ -93,7 +84,6 @@ const internationalPublications = [
     underReview: true
 },
 
-/* 10 */
 {
     year: 2026,
     title: "1×8 Dipole Array Antenna with a Compact Waveguide-to-Microstrip Transition for Sub-THz Characterization",
@@ -102,7 +92,6 @@ const internationalPublications = [
     underReview: true
 },
 
-/* 11 - Accepted */
 {
     year: 2026,
     title: "Floquet-Engineered Resistor-Free Ferrite Metasurface for Triple-Functional Automotive Radar and Vehicular IoT Applications",
@@ -110,7 +99,6 @@ const internationalPublications = [
     journal: "IEEE Transactions on Vehicular Technology."
 },
 
-/* 12 - Accepted */
 {
     year: 2026,
     title: "Dual-Polarized Reconfigurable Reflectarray Fed by a Bull’s Eye Aperture Antenna With Continuous Reflection-Type Phase Shifter",
@@ -118,7 +106,6 @@ const internationalPublications = [
     journal: "IEEE Transactions on Antennas and Propagation, Sep. 2026."
 },
 
-/* 13 - Accepted / public preprint */
 {
     year: 2026,
     title: "Janus Metasurface Breaking Polarization Symmetry: Surface-Modulated Electromagnetic Wave Radiation with Coexistent Linear and Circular Polarization",
@@ -127,7 +114,6 @@ const internationalPublications = [
     url: "https://arxiv.org/abs/2512.15045"
 },
 
-/* 14 - Accepted */
 {
     year: 2026,
     title: "Integrated Sensing and Backscatter Communication (ISABC): Toward Self-Sustainable Autonomous IoT Networks",
@@ -136,7 +122,6 @@ const internationalPublications = [
     doi: "10.1109/MMM.2026.3717878"
 },
 
-/* 15 */
 {
     year: 2026,
     title: "Design of a Compact HF and UHF Dual-Band on-Metal RFID Tag for Pipeline Marker Applications Using an Equivalent Circuit Model",
@@ -145,7 +130,6 @@ const internationalPublications = [
     doi: "10.1109/JRFID.2026.3727067"
 },
 
-/* 16 */
 {
     year: 2026,
     title: "Ultra-Low-Power Monostatic Backscatter Platform with Phase-Aware Channel Estimation and System-Level Validation",
@@ -154,7 +138,6 @@ const internationalPublications = [
     doi: "10.1109/JIOT.2026.3696951"
 },
 
-/* 17 */
 {
     year: 2026,
     title: "Multi-Functional Metasurfaces with M-Type Ferrites: Shaping the Future of mmWave Absorption and Beam Steering",
@@ -163,7 +146,6 @@ const internationalPublications = [
     doi: "10.1109/JIOT.2026.3699125"
 },
 
-/* 18 */
 {
     year: 2026,
     title: "An Additively Manufactured, Conformal, Cross-Polarized and Retrodirective Transmitarray-mmID System with Modular Flexible Functions for 5G Cyberphysical Systems",
